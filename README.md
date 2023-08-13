@@ -1,7 +1,7 @@
 
 # eat_app
 
-A new cooking recipes app made using Flutter with standard UI.
+A new cooking recipes app made using Flutter with standard UI :).
 
 
 
